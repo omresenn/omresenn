@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/omresenn/omresenn/main/image_e63268.png" width="200" alt="Ömer Esen Profile" style="border-radius: 50%;">
-
+<img src="https://github-readme-stats.vercel.app/api?username=omresenn&show_icons=true&theme=tokyonight&count_private=true" alt="Ömer's GitHub Stats" />
 # Hi 👋, I'm Ömer Esen
 
 ---
