@@ -1,69 +1,50 @@
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNuYXdnOWs0azJuenZjZ3lwZWV0aWR6bHg0ZzBuZHBsaHY0MG9udCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="150" alt="coding" />
-</div>
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave" />, I'm Ömer Esen</h2>
-
-
-
 <div align="center">
 
-![](https://raw.githubusercontent.com/mertkaratas/omresenn-profile/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/omresenn/omresenn/main/image_e63268.png" width="200" alt="Ömer Esen Profile" style="border-radius: 50%;">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omresenn&theme=gotham)
----
-
-### 🛠 Technologies & Tools
-
-**Languages & Core Development**
-<p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSharp-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-</p>
-
-**Game Development & Engines**
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
-
-**Tools & Environment**
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+# Hi 👋, I'm Ömer Esen
 
 ---
 
-![snake svg](https://raw.githubusercontent.com/omresenn/omresenn/output/github-contribution-grid-snake.svg)
+### 🛠️ Technologies & Tools
+
+#### Languages & Core Development
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+#### Game Development & Engines
+![](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+#### Tools & Environment
+![](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Mac_OS-000000?style=for-the-badge&apple&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-<h3 align="center">✨ Let's Connect!</h3>
-
-<p align="center">
-  <a href="mailto:mertkarataspr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mert-karatas-596658394">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/mert_krttss">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Feel free to reach out!</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omresenn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+### 🐍 GitHub Contribution Snake
+<img src="https://raw.githubusercontent.com/omresenn/omresenn/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
 
 ---
 
+### ✨ Let's Connect!
+
+<a href="mailto:omeresen723@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/ömer-esen-a93a1140a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/omresenn/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<br><br>
+*Feel free to reach out!*
+
+![](https://komarev.com/ghpvc/?username=omresenn&color=blue&style=flat-square)
+
+</div>
